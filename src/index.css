@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.form-label{
+  padding: 0 20px;
+}
